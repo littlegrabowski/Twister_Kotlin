@@ -13,7 +13,7 @@ class Activity2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_2)
 
-
+        // Jon was here
 
         val button_roll = findViewById<Button>(R.id.roll_button)
         button_roll.setOnClickListener {
